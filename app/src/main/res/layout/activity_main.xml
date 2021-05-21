@@ -146,7 +146,7 @@
             android:layout_height="wrap_content"
             android:gravity="right"
             android:layout_below="@+id/c3"
-            android:text="@string/str21"
+            android:text=""
             android:textColor="@color/white" />
 
 
