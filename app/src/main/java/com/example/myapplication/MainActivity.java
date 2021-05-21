@@ -7,7 +7,7 @@ import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
 import java.util.ArrayList;
-
+//
 public class MainActivity extends AppCompatActivity {
     ArrayList<Task> tasks = new ArrayList<>();
     TextView textView1, textView2, textView3, textView4, textView;
